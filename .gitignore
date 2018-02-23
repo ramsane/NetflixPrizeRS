@@ -1,5 +1,4 @@
 netflix/
 01_Intro_sample.ipynb
-train.csv
-sample.csv
-.ipynb_checkpoints
+.ipynb_checkpoints/
+*.csv
