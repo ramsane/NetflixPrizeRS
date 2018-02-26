@@ -2,3 +2,6 @@ netflix/
 01_Intro_sample.ipynb
 .ipynb_checkpoints/
 *.csv
+*.npz
+temp.ipynb
+similarity.ipynb
