@@ -11,4 +11,5 @@ bsl_algo
 knn_bsl_m
 metrics_*
 svd
+02_Models.ipynb
 
