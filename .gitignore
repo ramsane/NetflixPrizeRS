@@ -8,4 +8,7 @@ similarity.ipynb
 Untitled.ipynb
 *.pickle
 bsl_algo
+knn_bsl_m
+metrics_*
 svd
+
